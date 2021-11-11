@@ -1,8 +1,7 @@
-# INSAT_Projet-5A_Microscopie-hyperspectrale
+# Projet 5A - Microscopie hyperspectrale
+> Projet tutoré de 5ème année à l'INSA de Toulouse.
 
-Projet tutoré de 5ème année à l'INSA de Toulouse.
-
-Étudiants : Quentin Douzery, Alexia Ghozland.
+*Quentin Douzery, Alexia Ghozland*
 
 
 Encadrement : Pierre Weiss.
